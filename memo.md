@@ -38,3 +38,5 @@ https://github.com/yokoto/yokoto-sezemi-2015-readable-code/blob/master/recipe.rb
 
 ファイルの組み込み関数のIO#getsメソッドを使用して、recipe-data.txtの内容を読み込んだ。
 
+
+*** ここまで ***
