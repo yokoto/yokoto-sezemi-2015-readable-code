@@ -39,6 +39,6 @@ https://github.com/yokoto/yokoto-sezemi-2015-readable-code/blob/master/README.md
 ### この書き方の一言説明
 
 マークダウンでコードをハイライトするときは  
-`\`\`\``  
+`` ` ` ``  
 で囲う。
 
