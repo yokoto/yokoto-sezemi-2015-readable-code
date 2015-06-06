@@ -38,5 +38,8 @@ https://github.com/yokoto/yokoto-sezemi-2015-readable-code/blob/master/recipe.rb
 
 ファイルの組み込み関数のIO#getsメソッドを使用して、recipe-data.txtの内容を読み込んだ。
 
+### リーダブルと思った箇所
+* getsファイルの内容を実行時に取得していて、そこがシンプルでわかりやすいと感じた
+* 少しシンプルすぎる箇所でもコメントが残されていたので、コードを見ただけで意図が把握出来た
 
 *** ここまで ***
